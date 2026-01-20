@@ -1,0 +1,20 @@
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e resultados temporários
+*.log
+logs/
+temp/
+tmp/
+
+# modelos treinados
+models/
