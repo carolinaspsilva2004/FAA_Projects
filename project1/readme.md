@@ -97,6 +97,8 @@ This pipeline was a key factor in achieving the high classification performance.
 ---
 
 ## Authors
-- **Carolina Silva** – MSc in Informatics Engineering (MEI)  
-- **Matilde Teixeira** – MSc in Computer and Telematics Engineering (MECT)  
+- **Carolina Silva** – MSc in Informatics Engineering (MEI) ([GitHub](https://github.com/carolinaspsilva2004))
+- **Matilde Teixeira** – MSc in Computer and Telematics Engineering (MECT) ([GitHub](https://github.com/matildetex))  
+**University of Aveiro**
+
 **University of Aveiro**
