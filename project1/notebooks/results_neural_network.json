@@ -1,0 +1,7 @@
+{
+    "Model": "Neural Network",
+    "Accuracy": 0.9801,
+    "Precision": 0.9989,
+    "Recall": 0.9743,
+    "F1": 0.9864
+}

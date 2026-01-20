@@ -1,0 +1,35 @@
+{
+    "model": "Neural Network",
+    "architecture": {
+        "input_size": 16384,
+        "hidden_units": 64,
+        "output_size": 1
+    },
+    "hyperparameters": {
+        "learning_rate": 0.5,
+        "lambda": 0.1,
+        "iterations": 400
+    },
+    "cross_validation": {
+        "mean_accuracy": 0.7500467243753688,
+        "std_dev": 0.01016279065638327,
+        "fold_scores": [
+            0.7420814479638009,
+            0.7681159420289855,
+            0.7427536231884058,
+            0.7427536231884058,
+            0.7545289855072463
+        ]
+    },
+    "test_performance": {
+        "accuracy": 0.7435684647302905,
+        "precision": 0.7435684647302905,
+        "recall": 1.0,
+        "f1_score": 0.8529271775345074
+    },
+    "overfitting": {
+        "train_accuracy": 0.7424379641369317,
+        "test_accuracy": 0.7435684647302905,
+        "gap": -0.0011305005933587298
+    }
+}
